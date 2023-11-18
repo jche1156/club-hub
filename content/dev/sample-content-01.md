@@ -1,4 +1,4 @@
-Title: Welcome to the new site!
+Title: Article Number Dos
 Date: 2023-11-18 11:32
 Category: Dev Journal
 

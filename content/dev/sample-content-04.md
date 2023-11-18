@@ -1,4 +1,4 @@
-Title: Welcome to the new site!
+Title: Article Number Quas
 Date: 2023-11-18 11:44
 Category: Dev Journal
 

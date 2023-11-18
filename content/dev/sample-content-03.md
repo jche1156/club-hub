@@ -1,4 +1,4 @@
-Title: Welcome to the new site!
+Title: Article Number 3
 Date: 2023-11-18 11:36
 Category: Dev Journal
 
