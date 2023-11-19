@@ -1,6 +1,6 @@
 AUTHOR = 'John Chen'
 SITENAME = 'Club Template'
-SITEURL = ""
+# SITEURL = "https://jche1156.github.io/club-hub"
 
 PATH = "content"
 
@@ -15,21 +15,19 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
-)
+THEME = "themes/ramhill"
 
-# Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+DEFAULT_PAGINATION = 8
 
-DEFAULT_PAGINATION = 4
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/username'),
+          ('github', 'https://github.com/username'),
+          ('twitter', 'https://twitter.com/username'),
+          ('facebook', 'https://facebook.com/userid'),
+          )
+
+SITEDESCRIPTION = 'Mission Statement!'
+DISPLAY_SUMMARY = True
+DISPLAY_PAGES_ON_MENU = True
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
