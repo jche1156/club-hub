@@ -1,6 +1,6 @@
 AUTHOR = 'John Chen'
 SITENAME = 'Club Template'
-# SITEURL = "https://jche1156.github.io/club-hub"
+SITEURL = "https://jche1156.github.io"
 
 PATH = "content"
 
